@@ -1,0 +1,7 @@
+OpenBenchmarks.org Charter
+
+OpenBenchmarks.org is the name of a community-driven website with the sole purpose of running and comparing performance speed measurements for all implementations of all computer programming languages.
+
+OpenBenchmarks.org uses a free-and-open-source (FOSS) software package to perform the benchmark measurements, called the Open Benchmarks Platform (OBP). 
+
+OpenBenchmarks.org is operated by a volunteer organization of language developers, called the Open Benchmarks Group (OBG).
